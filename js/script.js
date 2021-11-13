@@ -21,7 +21,7 @@ function sendmsg() {
     var no = No.value;
     var mail = Mail.value;
     var msg = Msg.value;
-    var url = "https://wa.me/+918866322820?text=" + "Name: " + name + "%0a" + "contact no : " + no + "%0a" + "Email: " + mail + "%0a" + "Message: " + msg + "%0a";
+    var url = "https://wa.me/+916353642971?text=" + "Name: " + name + "%0a" + "contact no : " + no + "%0a" + "Email: " + mail + "%0a" + "Message: " + msg + "%0a";
 
     window.open(url).focus();
 }
